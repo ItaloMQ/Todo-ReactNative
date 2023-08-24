@@ -27,7 +27,7 @@ export function Home() {
     const existingTarefa = tarefas.find((tarefa) => tarefa === tarefaName);
 
     if (existingTarefa) {
-      return Alert.alert("Esta tarefa já existe.");
+      return Alert.alert("Warning!", "This task already exist.");
     }
 
     setTarefas((prevState) => [...prevState, tarefaName]);
