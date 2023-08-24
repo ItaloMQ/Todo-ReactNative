@@ -23,7 +23,7 @@ Follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/react-native-todo-app.git
+git clone https://github.com/ItaloMQ/Todo-ReactNative
 ```
 
 2. Navigate to the project directory:
