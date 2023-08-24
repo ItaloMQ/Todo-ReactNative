@@ -12,7 +12,7 @@ import Ionicons from "@expo/vector-icons/Ionicons";
 import { styles } from "./styles";
 import { Quantidade } from "../../components/Quantidade";
 import { Tarefa } from "../../components/Tarefa";
-
+//a
 export function Home() {
   const [tarefas, setTarefas] = useState<string[]>([]);
   const [tarefaName, setTarefaName] = useState("");
