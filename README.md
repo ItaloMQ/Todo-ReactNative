@@ -26,19 +26,13 @@ Follow these steps:
 git clone https://github.com/ItaloMQ/Todo-ReactNative
 ```
 
-2. Navigate to the project directory:
-
-```bash
-cd react-native-todo-app
-```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Start the development server:
+3. Start the development server:
 
 ```bash
 expo start
